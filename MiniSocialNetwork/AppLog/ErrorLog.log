@@ -1,0 +1,11 @@
+2020-09-23 10:38:50 INFO  StartupController:59 - jasodjasoidhasidhas dhoash
+2020-09-23 10:39:24 INFO  StartupController:59 - jasodjasoidhasidhas dhoash
+2020-09-26 18:09:57 ERROR LoginController:55 - Cannot create PoolableConnectionFactory (The TCP/IP connection to the host localhost, port 1433 has failed. Error: "The driver received an unexpected pre-login response. Verify the connection properties and check that an instance of SQL Server is running on the host and accepting TCP/IP connections at the port. This driver can be used only with SQL Server 2000 or later.". ClientConnectionId:9fb6a713-6b92-4dea-86b3-3d0b4e576875)
+2020-09-30 13:26:08 ERROR MainController:66 - 
+2020-09-30 13:29:23 ERROR MainController:66 - 
+2020-09-30 14:13:02 ERROR MainController:66 - 
+2020-09-30 14:13:02 ERROR MainController:66 - 
+2020-09-30 15:39:51 ERROR MainController:66 - null
+2020-09-30 15:40:38 ERROR MainController:66 - null
+2020-09-30 15:43:01 ERROR MainController:66 - null
+2020-09-30 16:06:51 ERROR StartupController:62 - The method executeQuery() cannot take arguments on a PreparedStatement or CallableStatement.
